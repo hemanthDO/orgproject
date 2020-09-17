@@ -1,3 +1,4 @@
+stash example
 updated content from stage
 updated content from dev branch
 hello
